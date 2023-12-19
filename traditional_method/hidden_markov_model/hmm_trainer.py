@@ -34,6 +34,8 @@ class HMMTrainer(object):
     def get_emission_matrix(self):
         return self.model.emissionprob_
     
+    def evaluate(self, vaildate_data):
+        
 
 if __name__ == "__main__":
     model = HMMTrainer(model_name='GuassianHMM', n_component=10)
