@@ -122,3 +122,4 @@ results
 .idea
 *.pem
 *.tar
+*.npy
