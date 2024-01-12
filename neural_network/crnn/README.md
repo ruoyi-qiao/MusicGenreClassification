@@ -18,8 +18,6 @@ Librosa - 0.6.2
 
 在运行任何带有神经网络的notebook之前，请确保下载了这些文件。
 
-代码Notebooks
-
 Explore data, convert raw audio into spectrograms and pickle them
 
 load_fma_dataset: 加载fma_dataset并对其进行探索。
@@ -30,8 +28,6 @@ Building models
 baseline_model_fma: 此模型使用tracks.csv中的元数据加载MFCC特征，并构建一个SVC分类器。
 CRNN_model: 此notebook使用压缩的频谱图构建了一个Keras中的CRNN模型。
 模型文件夹中包含了这个模型的训练权重。
-
-This repository contains the code for Music Genre Recognition project
 
 ## Packages
 * Python 3.6.5
