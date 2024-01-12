@@ -8,7 +8,7 @@
 
 ## dataset_process
 
-该目录是用于深度学习训练的Jupyter Notebook的预处理部分，从FMA: A Dataset For Music Analysis项目中克隆而来并经过修改，用于对比性能等。
+该目录是用于深度学习训练的Jupyter Notebook的预处理部分，从`FMA: A Dataset For Music Analysis`项目中克隆而来并经过修改，用于对比性能等。
 
 ## neural_network
 
